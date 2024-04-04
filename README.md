@@ -12,5 +12,6 @@ You can try Sudokun for free on Testflight!
 ```
 
 ## Screenshots
+### Dark
 
-![App Screenshot](https://github.com/bilegentile/Sudokun/blob/main/Sudokun/screenshots/board_dark.PNG)
+![Board](https://github.com/bilegentile/Sudokun/blob/main/Sudokun/screenshots/board_dark.PNG)
