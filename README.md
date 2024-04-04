@@ -12,6 +12,8 @@ You can try Sudokun for free on Testflight!
 ```
 
 ## Screenshots
-### Dark
+| **Dark** | **Light** |
+|:---:|:---:|
+|![Dark](https://github.com/bilegentile/Sudokun/blob/main/Sudokun/screenshots/board_dark.PNG) | ![Light](https://github.com/bilegentile/Sudokun/blob/main/Sudokun/screenshots/board_light.PNG)
 
-![Board](https://github.com/bilegentile/Sudokun/blob/main/Sudokun/screenshots/board_dark.PNG)
+
