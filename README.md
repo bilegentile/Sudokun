@@ -10,9 +10,7 @@ Also, I learned about Tasks in Swift trying to make everything work with the UI.
 
 You can try Sudokun for free on Testflight!
 
-```bash
-  ![Link](https://testflight.apple.com/join/flPuOVW7)
-```
+![Link](https://testflight.apple.com/join/flPuOVW7)
 
 ## Screenshots
 | **Dark** | **Light** |
