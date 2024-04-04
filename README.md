@@ -8,7 +8,7 @@ Also, I learned about Tasks in Swift trying to make everything work with the UI.
 
 ## Installation
 
-You can try Sudokun for free on Testflight!
+You can try Sudokun for free on Testflight:
 
 ![Testflight Link!](https://testflight.apple.com/join/flPuOVW7)
 
