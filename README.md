@@ -10,3 +10,7 @@ You can try Sudokun for free on Testflight!
 ```bash
   //Link is coming soon!
 ```
+
+## Screenshots
+
+![App Screenshot](https://github.com/bilegentile/Sudokun/blob/main/Sudokun/screenshots/board_dark.PNG)
