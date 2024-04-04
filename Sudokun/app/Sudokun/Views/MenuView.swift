@@ -31,8 +31,8 @@ struct MenuView: View {
 							Spacer()
 							
 							VStack {
-								Text("SUDOKUN")
-									.font(.custom("Kakutei_Uppercase_Bold", size: 80))
+								Text("Sudokun")
+									.font(.custom("CaviarDreams-Bold", size: 80))
 									.foregroundColor(Color(.label))
 									.shadow(radius: 10)
 								
@@ -61,8 +61,7 @@ struct MenuView: View {
 							Spacer()
 							
 							Text("Sudokun")
-                                .textCase(.uppercase)
-								.font(.custom("Kakutei_Uppercase_Bold", size: 65))
+								.font(.custom("CaviarDreams-Bold", size: 80))
 								.foregroundColor(Color(.label))
 								.shadow(radius: 10)
 							

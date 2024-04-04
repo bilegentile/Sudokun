@@ -293,6 +293,7 @@
 			);
 			name = Kakutei_Uppercase_Bold.ttf;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		681A72C523661BB8002B9053 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
