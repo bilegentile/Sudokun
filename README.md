@@ -5,4 +5,4 @@ Play with your fingers to select the dots and learn Braille!
 ## Screenshots
 | **Dark** | **Light** |
 |:---:|:---:|
-|![Dark](https://github.com/bilegentile/VisualBraille/blob/main/VisualBraille.swiftpm/Assets.xcassets/AppIcon.appiconset/VisualBrailleDarkAppIcon.png) | ![https://github.com/bilegentile/VisualBraille/blob/main/VisualBraille.swiftpm/Assets.xcassets/AppIcon.appiconset/VisualBrailleLightAppIcon.png)
+|![Dark](https://github.com/bilegentile/VisualBraille/blob/main/VisualBraille.swiftpm/Assets.xcassets/AppIcon.appiconset/VisualBrailleDarkAppIcon.png) | ![(https://github.com/bilegentile/VisualBraille/blob/main/VisualBraille.swiftpm/Assets.xcassets/AppIcon.appiconset/VisualBrailleLightAppIcon.png)
